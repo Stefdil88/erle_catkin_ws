@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dilucia/catkin_ws/devel_isolated/arm_control/setup.sh

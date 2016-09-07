@@ -1,0 +1,8 @@
+prefix=/home/dilucia/catkin_ws/devel
+
+Name: flight_mode
+Description: Description of flight_mode
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dilucia/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs mavros_msgs

@@ -1,0 +1,8 @@
+prefix=/home/dilucia/catkin_ws/install_isolated
+
+Name: ros_erle_imu
+Description: Description of ros_erle_imu
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dilucia/catkin_ws/install_isolated/lib 
+Requires: std_msgs

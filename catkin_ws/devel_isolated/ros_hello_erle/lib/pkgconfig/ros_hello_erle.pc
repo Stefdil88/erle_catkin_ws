@@ -1,0 +1,8 @@
+prefix=/home/dilucia/catkin_ws/devel_isolated/ros_hello_erle
+
+Name: ros_hello_erle
+Description: Description of ros_hello_erle
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/dilucia/catkin_ws/devel_isolated/ros_hello_erle/lib 
+Requires: 

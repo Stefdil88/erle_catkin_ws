@@ -1,0 +1,2 @@
+rob_arm/arbotix/arbotix:rob_arm/arbotix/arbotix_controllers:rob_arm/arbotix/arbotix_firmware:rob_arm/arbotix/arbotix_msgs:rob_arm/arbotix/arbotix_python:rob_arm/arbotix/arbotix_sensors:rob_arm/arm_control:ros_erle_imu:ros_hello_erle
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/dilucia/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/dilucia/catkin_ws/install_isolated
